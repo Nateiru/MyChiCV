@@ -2,9 +2,9 @@
 
 #show: chicv
 
-= 范乾一
-#fa[#phone] #fa[#weixin] (+86)132-8866-2339 |
-#fa[#envelope]  tomatofaq\@gmail.com |
+= 祝梓毅
+#fa[#phone] #fa[#weixin] (+86)188-3805-8676 |
+#fa[#envelope]  zyzhu2001\@gmail.com |
 #fa[#github] #link("https://github.com/TOMATOFGY")[github.com/TOMATOFGY] |
 #fa[#home] #link("https://www.notion.so/tomatofgy/TOMATOFGY-s-Blog-c83179a1988543678b177bbb4fa957e1")[TOMATOFGY's Blog]
 
